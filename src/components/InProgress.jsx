@@ -7,7 +7,7 @@ import calendar2 from "../images/calendar2.svg"
 import roundPlus from "../images/roundPlus.svg"
 import "./k.css"
 
-const Todo = () => {
+const InProgress = () => {
     return (
         <>
             <div className="scrollable-container" style={{ "height": "73vh", "overflowY": "auto" }}>
@@ -50,4 +50,4 @@ const Todo = () => {
     )
 }
 
-export default Todo
+export default InProgress
