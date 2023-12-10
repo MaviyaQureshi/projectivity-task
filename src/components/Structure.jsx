@@ -11,7 +11,7 @@ function Structure() {
     return (
         <>
             <div style={{ "backgroundColor": "#F4F6FF", "height": "100%", "fontFamily": "Poppins" }}>
-                <div className="col" style={{ "width": "92.4%", "position": "absolute", "right": "0" }}>
+                <div className="col" style={{ "width": "93.4%", "position": "absolute", "right": "0" }}>
                     <div className="row">
                         <NavBar />
                     </div>
