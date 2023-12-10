@@ -46,8 +46,6 @@ const Todo = () => {
                     </button>
                 </div>
             </div>
-
-
         </>
     )
 }
