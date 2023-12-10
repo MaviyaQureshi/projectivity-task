@@ -12,7 +12,7 @@ const NavBar = () => {
     return (
         <>
             <nav className="navbar navbar-expand-md bg-white">
-                <div className="container-fluid m-0 mb-2 justify-content-end p-0">
+                <div className="container-fluid m-0 mb-2 justify-content-end">
                     {/* NavBar items */}
                     <ul className="navbar-nav d-flex flex-row">
                         {/* Icons */}

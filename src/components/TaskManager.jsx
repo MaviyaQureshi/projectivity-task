@@ -10,7 +10,7 @@ const TaskManager = () => {
     return (
         <>
             <div className="navbar navbar-expand">
-                <div className="container-fluid p-0">
+                <div className="container-fluid">
                     <a>
                         <div className='d-flex'>
                             <h4 className='mt-3 ms-5' style={{ "fontWeight": "600" }}>Tasks Manager</h4>

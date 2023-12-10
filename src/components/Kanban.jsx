@@ -7,7 +7,7 @@ import roundPlus from "../images/roundPlus.svg"
 const Kanban = () => {
     return (
         <>
-            <div className='d-flex p-0 mt-5 flex-md-column'>
+            <div className='d-flex p-0 mt-5'>
                 <div className="col" style={{ "height": "fit-content", "overflowY": "auto" }}>
                     <Todo />
                 </div>

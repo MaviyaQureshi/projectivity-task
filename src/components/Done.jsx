@@ -35,7 +35,7 @@ const Done = () => {
                             <span className='mt-2 ms-2' style={{ "fontSize": "0.8rem" }}>SEP 25 , 2021</span>
                         </span>
                         <span className="progress mt-2 bg-secondary" style={{ "height": "0.5rem" }}>
-                            <span className="progress-bar" style={{ "width": " 100%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></span>
+                            <span className="progress-bar" style={{ "width": "75%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></span>
                         </span>
                     </div>
                     <div className="card border-0 rounded-3 mt-2">
@@ -58,7 +58,7 @@ const Done = () => {
                             <span className='mt-2 ms-2' style={{ "fontSize": "0.8rem" }}>JAN 1,2021 - JAN 20,2021</span>
                         </span>
                         <span className="progress mt-2 bg-secondary" style={{ "height": "0.5rem" }}>
-                            <span className="progress-bar" style={{ "width": " 100%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></span>
+                            <span className="progress-bar" style={{ "width": "75%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></span>
                         </span>
                     </div>
                     <div className="card border-0 rounded-3 mt-2">
@@ -80,7 +80,7 @@ const Done = () => {
                             <span className='mt-2 ms-2' style={{ "fontSize": "0.8rem" }}>JAN 1,2021 - JAN 20,2021</span>
                         </span>
                         <span className="progress mt-2 bg-secondary" style={{ "height": "0.5rem" }}>
-                            <span className="progress-bar" style={{ "width": " 100%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></span>
+                            <span className="progress-bar" style={{ "width": "75%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></span>
                         </span>
                     </div>
                     <button className="btn text-primary border-0 mt-2 mb-2 rounded-3" style={{ "backgroundColor": "#dee5ff", "height": "2.4rem", "width": "100%" }}>
